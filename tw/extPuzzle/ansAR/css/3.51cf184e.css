@@ -1,0 +1,1 @@
+#example-scanning-overlay{display:flex;align-items:center;justify-content:center;position:absolute;left:0;right:0;top:0;bottom:0;background:transparent;z-index:2}#example-scanning-overlay.hidden{display:none}#example-scanning-overlay img{opacity:0.3;width:80%;max-width:240px;align-self:center}
