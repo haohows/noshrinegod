@@ -1,1 +1,1 @@
-window.gameconfig={feedbackUrl:"https://pzbook.haohows.com",shareUrl:"https://haohows.com/noshrinegod/tw",shareText:"上次從日本名古屋回來後，我老覺得心神不寧，為了求個心安，我跑去龍山寺抽籤順便還個願，誰知道就莫名其妙的被捲入一場危機事件？"};
+window.gameconfig={feedbackUrl:"https://pzbook.haohows.com",shareUrl:"https://haohows.com/noshrinegod/jp",shareText:"オレは王大熊。ガキの頃から路地裏の廟で育った、ちょっとばかし腕が立つ心霊調査員だ。名古屋から帰ってきてからというもの、ずっと胸騒ぎがしていた。気持ちを落ち着けるために龍山寺へお参りし、ついでにおみくじを引いたんだが――まさか、そのまま妙な事件に巻き込まれるとはな..."};
