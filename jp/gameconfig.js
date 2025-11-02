@@ -1,4 +1,5 @@
 window.gameconfig = {
+  counter: "https://www.f-counter.net/j/66/1761960110/",
   feedbackUrl: "https://forms.gle/UP6vXKMymEZoagdR9",
   shareUrl: "https://haohows.com/noshrinegod/jp",
   shareText:
