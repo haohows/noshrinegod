@@ -1,1 +1,1 @@
-window.gameconfig={counter:"https://www.f-counter.net/j/66/1761960110/",feedbackUrl:"https://forms.gle/UP6vXKMymEZoagdR9",shareUrl:"https://haohows.com/noshrinegod/jp",shareText:"オレは王大熊。ガキの頃から路地裏の廟で育った、ちょっとばかし腕が立つ心霊調査員だ。名古屋から帰ってきてからというもの、ずっと胸騒ぎがしていた。気持ちを落ち着けるために龍山寺へお参りし、ついでにおみくじを引いたんだが――まさか、そのまま妙な事件に巻き込まれるとはな..."};
+window.gameconfig={feedbackUrl:"https://forms.gle/UP6vXKMymEZoagdR9",shareUrl:"https://haohows.com/noshrinegod/jp",shareText:"オレは王大熊。ガキの頃から路地裏の廟で育った、ちょっとばかし腕が立つ心霊調査員だ。名古屋から帰ってきてからというもの、ずっと胸騒ぎがしていた。気持ちを落ち着けるために龍山寺へお参りし、ついでにおみくじを引いたんだが――まさか、そのまま妙な事件に巻き込まれるとはな..."};
