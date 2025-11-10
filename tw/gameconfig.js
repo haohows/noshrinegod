@@ -1,6 +1,1 @@
-window.gameconfig = {
-  counter: "https://www.f-counter.net/j/66/1761960110/",
-  feedbackUrl: "https://forms.gle/UP6vXKMymEZoagdR9",
-  shareUrl: "https://haohows.com/noshrinegod/tw",
-  shareText: "自上次從日本名古屋回來後，我老覺得心神不寧，為了求個心安，我跑去龍山寺抽籤順便還個願，誰知道就莫名其妙的被捲入一場危機事件...",
-};
+window.gameconfig={feedbackUrl:"https://forms.gle/UP6vXKMymEZoagdR9",shareUrl:"https://haohows.com/noshrinegod/tw",shareText:"上次從日本名古屋回來後，我老覺得心神不寧，為了求個心安，我跑去龍山寺抽籤順便還個願，誰知道就莫名其妙的被捲入一場危機事件..."};
